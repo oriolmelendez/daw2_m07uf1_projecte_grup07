@@ -1,0 +1,8 @@
+17323,Pera,3,img/pera.jpg,Alimentacio
+1005,Poma,2,img/poma.jpg,Alimentacio
+012,Tomaquet,5,img/tomaquet.jpeg,Alimentacio
+55,Jeans,50,img/jeans.jpeg,Roba
+06,Samarreta,15,img/samarreta.jpg,Roba
+02,Cable HDMI,20,img/hdmi.jpg,Tecnologia
+01,Cable Ethernet,35,img/ethernet.jpg,Tecnologia
+30,Gtx1060,200,img/gtx1060.jpg,Tecnologia

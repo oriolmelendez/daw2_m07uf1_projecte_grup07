@@ -1,0 +1,5 @@
+admin:1234::::::
+carlos:1234:Carlos:Villar Melero:Bilbao 236:carlos@gmail.com:601285345:ES892938504
+oriol:om1234:Oriol:Melendez Bonet:La Pau 14:oriol@gmail.com:637745229:ES0184937402
+david52:123456789:David:Garcia Subirats:Besalu 22:david@gmail.com:601285852:ES8904234885
+carlos43:1234:Carlos:Villar:La pau 14:carlos@gmail.com:785930482:ES850958302

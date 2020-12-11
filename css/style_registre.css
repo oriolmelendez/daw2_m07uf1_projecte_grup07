@@ -1,0 +1,32 @@
+#box{
+    width: 500px;
+    height: 500px;
+    background-color: grey;
+    margin-left: 34%;
+    margin-top: 5%;
+}
+
+#box h1{
+    margin-left: 195px;
+    margin-right: 125px;
+    padding-top: 25px;
+}
+
+#usr,#pwd,#adreça,#mail,#telf,#visa,#name,#cognoms{
+    width: 400px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 3%;
+}
+
+#registre{
+    width: 250px;
+    height: 40px;
+    margin-top: 5%;
+    margin-left: 125px;
+    margin-right: 125px;
+}
+
+#login{
+    margin-left: 150px;
+}
